@@ -1,0 +1,42 @@
+div{
+    text-align: center;
+    color:white;
+    background: blue;
+    
+}
+.black{
+    text-align: right;
+    color:blue;
+}
+.home{
+    max-width:100%;
+    height:auto;
+}
+#blue{
+    color:white;
+    background:blue;
+    text-align: center;
+}
+
+.durk{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.blue{
+    color:white;
+    background:blue;
+    text-align: center;
+}
+.dark{
+    color:yellow;
+    background: black;
+    border:3px solid green;
+}
+.end{
+    text-align: center;
+    color:white;
+    background: blue;
+
+}
